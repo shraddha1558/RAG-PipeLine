@@ -16,7 +16,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using Lan
 
 ## Project Structure
 
-- `Rag.ipynb` – Jupyter Notebook demonstrating data ingestion, document splitting, embedding, vector storage, and querying
+- `RAGPipeline.ipynb` – Jupyter Notebook demonstrating data ingestion, document splitting, embedding, vector storage, and querying
 - `speech.txt` – Speech Text file for Information Retrieval.
 - `attention.pdf` - A research paper for information retrieval.
 - `requirements.txt` – Python dependencies
