@@ -1,0 +1,34 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+python-dotenv
+ollama
+
+
+# Core LangChain libraries
+langchain
+langchain-core
+langchain-community
+
+# Ollama LLM
+ollama
+
+# Vector stores
+chromadb
+faiss-cpu  # use faiss-gpu if you have GPU
+
+# Web scraping
+beautifulsoup4
+lxml
+requests
+
+# PDF loader
+pypdf
+
+# Text processing
+tiktoken
+
+# Optional: Streamlit if you want a web app interface
+streamlit
